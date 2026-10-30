@@ -64,5 +64,172 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-audiopod-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://audiopod.ai/
+AudioPod AI is an AI audio workstation for creating, editing, and publishing podcasts and audiobooks. It offers a unified studio‑grade platform that combines text‑to‑speech, voice cloning, music generation, transcription, denoising, source separation, and more under a single login, priced like software rather than a recording studio. Built to address fragmented, overpriced, and unconsented AI audio production, AudioPod provides creators with a consent‑first, studio‑grade output, all accessible via a comprehensive REST API.
+
+**Areas:** AI · Audio · Podcast · Audiobook · SaaS · Company
+
+## audiopod-ai on APIs.io
+
+Everything profiled for audiopod-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/audiopod-ai/](https://apis.io/providers/audiopod-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (24)
+
+- [audiopod-ai API Wallet API](https://apis.io/apis/audiopod-ai/audiopod-ai-api-wallet-api/) — The api-wallet API from audiopod-ai — 11 operation(s) for api-wallet.
+- [audiopod-ai Audio Agent API](https://apis.io/apis/audiopod-ai/audiopod-ai-audio-agent-api/) — The Audio Agent API from audiopod-ai — 17 operation(s) for audio agent.
+- [audiopod-ai Audiobook API](https://apis.io/apis/audiopod-ai/audiopod-ai-audiobook-api/) — The audiobook API from audiopod-ai — 105 operation(s) for audiobook.
+- [audiopod-ai Auth API](https://apis.io/apis/audiopod-ai/audiopod-ai-auth-api/) — Authentication and user management
+- [audiopod-ai Credits API](https://apis.io/apis/audiopod-ai/audiopod-ai-credits-api/) — Credits and billing
+- [audiopod-ai Denoiser API](https://apis.io/apis/audiopod-ai/audiopod-ai-denoiser-api/) — Audio noise reduction
+- [audiopod-ai Downloads API](https://apis.io/apis/audiopod-ai/audiopod-ai-downloads-api/) — The downloads API from audiopod-ai — 2 operation(s) for downloads.
+- [audiopod-ai File Downloads API](https://apis.io/apis/audiopod-ai/audiopod-ai-file-downloads-api/) — The File Downloads API from audiopod-ai — 2 operation(s) for file downloads.
+- [audiopod-ai MCP API](https://apis.io/apis/audiopod-ai/audiopod-ai-mcp-api/) — The MCP API from audiopod-ai — 2 operation(s) for mcp.
+- [audiopod-ai Media Converter API](https://apis.io/apis/audiopod-ai/audiopod-ai-media-converter-api/) — The Media Converter API from audiopod-ai — 11 operation(s) for media converter.
+- [audiopod-ai Media Extraction API](https://apis.io/apis/audiopod-ai/audiopod-ai-media-extraction-api/) — Pull audio and video in from a source URL: read its metadata, queue a download, and track the job.
+- [audiopod-ai Midi API](https://apis.io/apis/audiopod-ai/audiopod-ai-midi-api/) — The midi API from audiopod-ai — 5 operation(s) for midi.
+- [audiopod-ai Music API](https://apis.io/apis/audiopod-ai/audiopod-ai-music-api/) — AI music generation and editing
+- [audiopod-ai Openai Compat API](https://apis.io/apis/audiopod-ai/audiopod-ai-openai-compat-api/) — The openai-compat API from audiopod-ai — 3 operation(s) for openai-compat.
+- [audiopod-ai Open AI Compatible API](https://apis.io/apis/audiopod-ai/audiopod-ai-openai-compatible-api/) — The OpenAI-Compatible API from audiopod-ai — 3 operation(s) for openai-compatible.
+- [audiopod-ai Podcast API](https://apis.io/apis/audiopod-ai/audiopod-ai-podcast-api/) — The podcast API from audiopod-ai — 22 operation(s) for podcast.
+- [audiopod-ai Reader API](https://apis.io/apis/audiopod-ai/audiopod-ai-reader-api/) — The reader API from audiopod-ai — 5 operation(s) for reader.
+- [audiopod-ai Sandbox API](https://apis.io/apis/audiopod-ai/audiopod-ai-sandbox-api/) — The sandbox API from audiopod-ai — 2 operation(s) for sandbox.
+- [audiopod-ai Speaker API](https://apis.io/apis/audiopod-ai/audiopod-ai-speaker-api/) — Speaker analysis and extraction
+- [audiopod-ai Stem Extraction API](https://apis.io/apis/audiopod-ai/audiopod-ai-stem-extraction-api/) — Music stem separation
+- [audiopod-ai Transcription API](https://apis.io/apis/audiopod-ai/audiopod-ai-transcription-api/) — Speech-to-text conversion
+- [audiopod-ai Voice API](https://apis.io/apis/audiopod-ai/audiopod-ai-voice-api/) — Voice cloning and synthesis
+- [audiopod-ai Voice Design API](https://apis.io/apis/audiopod-ai/audiopod-ai-voice-design-api/) — The voice-design API from audiopod-ai — 2 operation(s) for voice-design.
+- [audiopod-ai Webhooks API](https://apis.io/apis/audiopod-ai/audiopod-ai-webhooks-api/) — The webhooks API from audiopod-ai — 5 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Audiopod Ai Agentic Access](https://apis.io/agentic-access/audiopod-ai/audiopod-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CoverRequest](https://apis.io/schemas/audiopod-ai/audiopod-ai-cover-request/)
+- [EditRequest](https://apis.io/schemas/audiopod-ai/audiopod-ai-edit-request/)
+- [ExtendRequest](https://apis.io/schemas/audiopod-ai/audiopod-ai-extend-request/)
+- [ReferenceAudioRequest](https://apis.io/schemas/audiopod-ai/audiopod-ai-reference-audio-request/)
+- [RepaintRequest](https://apis.io/schemas/audiopod-ai/audiopod-ai-repaint-request/)
+- [Text2MusicRequest](https://apis.io/schemas/audiopod-ai/audiopod-ai-text2-music-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Audiopod Ai Context](https://apis.io/jsonld/audiopod-ai/audiopod-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [audiopod-ai API Rules](https://apis.io/rules/audiopod-ai/audiopod-ai-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Audiopod Ai Authentication](https://apis.io/security/audiopod-ai/audiopod-ai-authentication/)
+- [Audiopod Ai Domain Security](https://apis.io/security/audiopod-ai/audiopod-ai-domain-security/)
+- [Audiopod Ai Trust Center](https://apis.io/security/audiopod-ai/audiopod-ai-trust-center/)
+- [Audiopod Ai Vulnerability Disclosure](https://apis.io/security/audiopod-ai/audiopod-ai-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Audiopod Ai Scopes](https://apis.io/scopes/audiopod-ai/audiopod-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Audiopod Ai Plans Pricing](https://apis.io/plans/audiopod-ai/audiopod-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Audiopod Ai Rate Limits](https://apis.io/rate-limits/audiopod-ai/audiopod-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://audiopod.ai/)
+- [Documentation](https://docs.audiopod.ai)
+- [Getting started](https://docs.audiopod.ai/quickstart)
+- [API reference](https://api.audiopod.ai/docs)
+- [Pricing](https://audiopod.ai/pricing)
+- [Sign up](https://audiopod.ai/auth/signup)
+- [Support](https://audiopod.ai/support)
+- [Changelog](https://audiopod.ai/changelog)
+- [Blog](https://audiopod.ai/blog)
+- [Security](https://www.audiopod.ai/security-policy)
+- [Compliance](https://audiopod.ai/trust)
+- [Terms of service](https://audiopod.ai/terms)
+- [Privacy policy](https://audiopod.ai/privacy)
+- [GitHub](https://github.com/AudiopodAI)
+- [Status](https://audiopod.ai/status)
+
+## API Evangelist rating
+
+**Kin Score 74.5** — exemplar · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 55.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 47.4 |
+| Developer ergonomics | 82.6 |
+| Access clarity | 88.9 |
+
+**Agent readiness 63.7** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | documented (partial credit) |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 41.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/audiopod-ai/](https://apis.io/providers/audiopod-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for audiopod-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/audiopod-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
